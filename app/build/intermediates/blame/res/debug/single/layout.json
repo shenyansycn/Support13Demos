@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/res/merged/debug/layout/fragment_pager_list.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/res/layout/fragment_pager_list.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/res/merged/debug/layout/simple_list_item_checkable_1.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/res/layout/simple_list_item_checkable_1.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/res/merged/debug/layout/fragment_pager.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/res/layout/fragment_pager.xml"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/res/merged/debug/layout/counting.xml",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/res/layout/counting.xml"
+    }
+]

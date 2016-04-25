@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/pre-dexed/debug/com.android.support-support-v13-23.3.0_408b9ede3e3816abd3b4ad014b9f558ee9b4f8aa.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d8ef89a649a30f2e7414ee8bf1c95d45032110d2">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/pre-dexed/debug/instant-run_1ba914dfd9ed98ff6ef6f2eec6d58e6776704dd1.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_f8c9dedc710ca3256b102876d43cae29e634cabe.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2637550c2eca202902c785d236446de87fe423c6">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_dd140b77dcdf0068a6d2194d40bd187e6710d05a.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_b6af03ad76ac1fd59ce0725a6afbe75748afbee2.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_027886308460b6087061560b6124e8a089c7a8c8.jar" />
+    </item>
+    <item
+        jar="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_2f326bcb878c841c8c36ae51ca8ca5f16e9817b0.jar" />
+    </item>
+
+</items>

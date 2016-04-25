@@ -1,0 +1,94 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:22:1-91:12
+	package
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:23:5-45
+		INJECTED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:22:11-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:25:5-72
+	android:name
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:25:22-69
+uses-sdk
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:27:5-44
+MERGED from [com.android.support:support-v13:23.3.0] /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:23.3.0] /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:27:15-41
+		INJECTED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:33:5-34:52
+	android:compatibleWidthLimitDp
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:34:13-49
+	android:requiresSmallestWidthDp
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:33:23-60
+application
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:36:5-90:19
+MERGED from [com.android.support:support-v13:23.3.0] /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:36:18-62
+	android:hardwareAccelerated
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:38:13-47
+	android:icon
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:37:13-53
+activity#com.example.android.supportv13.Support13Demos
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:40:9-46:20
+	android:name
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:40:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:43:27-73
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:44:27-74
+activity#com.example.android.supportv13.app.FragmentNestingPagerSupport
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:50:9-56:20
+	android:label
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:51:17-71
+	android:name
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:50:19-66
+intent-filter#android.intent.action.MAIN+com.example.android.supportv13.SUPPORT13_SAMPLE_CODE
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:52:13-55:29
+category#com.example.android.supportv13.SUPPORT13_SAMPLE_CODE
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:54:17-97
+	android:name
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:54:27-94
+activity#com.example.android.supportv13.app.FragmentNestingStatePagerSupport
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:58:9-64:20
+	android:label
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:59:17-77
+	android:name
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:58:19-71
+activity#com.example.android.supportv13.app.FragmentPagerSupport
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:66:9-72:20
+	android:label
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:67:17-63
+	android:name
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:66:19-59
+activity#com.example.android.supportv13.app.FragmentStatePagerSupport
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:74:9-80:20
+	android:label
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:75:17-69
+	android:name
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:74:19-64
+activity#com.example.android.supportv13.app.ActionBarTabsPager
+ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:82:9-88:20
+	android:label
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:83:17-62
+	android:name
+		ADDED from /Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/AndroidManifest.xml:82:19-57

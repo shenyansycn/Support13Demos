@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/app_sample_code.png",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/res/drawable-mdpi/app_sample_code.png"
+    },
+    {
+        "merged": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/alert_dialog_icon.png",
+        "source": "/Users/ShenYan/Dev/Android/WorkSpace/AndroidStudio/GitHub/Support13Demos/app/src/main/res/drawable-mdpi/alert_dialog_icon.png"
+    }
+]
